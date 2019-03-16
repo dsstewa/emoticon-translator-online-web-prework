@@ -3,7 +3,7 @@ require 'yaml'
 # require modules here
 
 def load_library(filepath)
-  /lib/emoticons.yml
+  /emoticons.yml
 end
 
 def get_japanese_emoticon
